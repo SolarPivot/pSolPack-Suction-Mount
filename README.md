@@ -1,5 +1,10 @@
 # pSolPack-Suction-Mount
 pSolPack Suction-Mount DIY Accessory
+
+Mount pSolPack (5W/8000mAh) solar with battery IP-65 enclosure inside or outside any glass window
+
+# Note: Do Not Mount Outside Window in a moving car.
+
 STL: 3D Printable
 PDF: Assembly & Setup Guide
 
