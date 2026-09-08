@@ -6,6 +6,7 @@ Mount pSolPack (5W/8000mAh) solar with battery IP-65 enclosure inside or outside
 # Note: Do Not Mount Outside Window in a moving car.
 
 STL: 3D Printable
+
 PDF: Assembly & Setup Guide
 
 # Off the Shelf Parts (Amazon Links)
